@@ -1,6 +1,6 @@
 # Desktop Muon Detector – Data Simulation and Analysis
 
-After building desktop muon detector, this project acquires the data from the detector and performs basic data parsing and visualization. It demonstrates a full mini-pipeline from raw measurement generation to structured analysis and exploratory plots.
+After building desktop muon detector (2022), this project acquires the data from the detector and performs basic data parsing and visualization. It demonstrates a full mini-pipeline from raw measurement generation to structured analysis and exploratory plots.
 
 ## Overview
 
